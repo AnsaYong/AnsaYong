@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnsaYong
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m a github user with username @AnsaYong
+- 👀 I’m interested in becoming a software developer
+- 🌱 I’m currently learning software engineering with ALX
+- 💞️ I’m looking to collaborate on and provide solutions to any real-life problems
 - 📫 How to reach me ansahmbomyong@gmail.com
 
 <!---
